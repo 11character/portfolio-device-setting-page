@@ -67,7 +67,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="https://github.com/11character/potrfolio-device-setting-page">GitHub</a>
+                    <a class="nav-link" href="https://github.com/11character/portfolio-device-setting-page">GitHub</a>
                 </li>
             </ul>
         </div>

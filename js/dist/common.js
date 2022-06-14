@@ -298,7 +298,7 @@
             {
               staticClass: "nav-link",
               attrs: {
-                href: "https://github.com/11character/potrfolio-device-setting-page"
+                href: "https://github.com/11character/portfolio-device-setting-page"
               }
             },
             [_vm._v("GitHub")]
@@ -353,11 +353,11 @@
     window.PROTOCOL_DATA_URL = './api/protocol-data.php';
 
     // 프로젝트 외부에서 제공하는 경로.
-    window.BLUETOOTH_DEBUG_URL = './sample-page.html';
-    window.SERIAL_DEBUG_URL = './sample-page.html';
-    window.SERVER_REBOOT_URL = './sample-page.html';
-    window.SERVER_RESTART_URL = './sample-page.html';
-    window.SDR_CHANNEL_CHANGE_URL = './sample-page.html';
+    window.BLUETOOTH_DEBUG_URL = './sample-page.php';
+    window.SERIAL_DEBUG_URL = './sample-page.php';
+    window.SERVER_REBOOT_URL = './sample-page.php';
+    window.SERVER_RESTART_URL = './sample-page.php';
+    window.SDR_CHANNEL_CHANGE_URL = './sample-page.php';
 
     window.RATE_ARR = [
         50,
